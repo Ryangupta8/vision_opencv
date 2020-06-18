@@ -3,3 +3,5 @@ build*/
 *.pyc
 .*
 *~
+instructions.txt
+opencv_tests/rosbag
